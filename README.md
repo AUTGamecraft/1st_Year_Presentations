@@ -1,10 +1,8 @@
 ![Gamecraft](https://github.com/AUTGamecraft/1st_Year_Presentations/blob/main/Slides/AUTGamecraft.png)
 
-<div class="center">
-  <p>
-    <a href="https://github.com/AUTGamecraft/1st_Year_Presentations/blob/main/README-fa.md">Fa(فا)</a>
-  </p>
-</div>
+<p>
+  <a href="https://github.com/AUTGamecraft/1st_Year_Presentations/blob/main/README-fa.md">Fa(فا)</a>
+</p>
 
 # First Year Presentations
 First AUT Gamecraft event resources held at 2021.
