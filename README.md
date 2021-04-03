@@ -1,8 +1,5 @@
+English | [فارسی](https://github.com/AUTGamecraft/1st_Year_Presentations/blob/main/README-fa.md)
 ![Gamecraft](https://github.com/AUTGamecraft/1st_Year_Presentations/blob/main/Slides/AUTGamecraft.png)
-
-<p>
-  <a href="https://github.com/AUTGamecraft/1st_Year_Presentations/blob/main/README-fa.md">Fa(فا)</a>
-</p>
 
 ## Hosted talks (held at 2021)
 |Title|Presenter|Slide|Video|Date|
