@@ -1,2 +1,6 @@
-# 1st_Year_Presentations
-First AUT Gamecraft event resources
+# First Year Presentations
+First AUT Gamecraft event resources.
+
+## Hosted talks
+|Title|Presenter|Slides|Video|Date|
+|--|--|--|--|--|
