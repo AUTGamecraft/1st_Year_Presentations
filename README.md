@@ -1,10 +1,11 @@
+![Gamecraft](https://github.com/AUTGamecraft/1st_Year_Presentations/blob/main/Slides/AUTGamecraft.png)
 # First Year Presentations
-First AUT Gamecraft event resources held 2021.
+First AUT Gamecraft event resources held at 2021.
 
 ## Hosted talks
 |Title|Presenter|Slide|Video|Date|
 |--|--|--|--|--|
-|AR & VR|Sadegh Booroomand|||9th March|
+|AR and VR technologies|Sadegh Booroomand|||9th March|
 |Introduction to game engines and their structures|Amirhossein Mosavi|[Slide](https://github.com/AUTGamecraft/1st_Year_Presentations/blob/main/Slides/Moosavi-GameEngines-Gamecraft.pdf)||10th March|
 |The effect of proper marketing to the most user acquisition|Reza Abbasi|[Slide](https://github.com/AUTGamecraft/1st_Year_Presentations/blob/main/Slides/Abbasi-Marketing-Gamecraft.pdf)||11th March|
 |Where to start?|Taha Rasooli|[Slide](https://github.com/AUTGamecraft/1st_Year_Presentations/blob/main/Slides/Rasooli-WhereToStart-Gamecraft.pdf)||12th March|
