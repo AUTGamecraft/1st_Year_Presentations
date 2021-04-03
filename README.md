@@ -2,5 +2,5 @@
 First AUT Gamecraft event resources.
 
 ## Hosted talks
-|Title|Presenter|Slides|Video|Date|
+|Title|Presenter|Slide|Video|Date|
 |--|--|--|--|--|
