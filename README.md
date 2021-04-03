@@ -1,5 +1,5 @@
 # First Year Presentations
-First AUT Gamecraft event resources.
+First AUT Gamecraft event resources held 2021.
 
 ## Hosted talks
 |Title|Presenter|Slide|Video|Date|
