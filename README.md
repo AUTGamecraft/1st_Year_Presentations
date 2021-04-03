@@ -4,10 +4,7 @@
   <a href="https://github.com/AUTGamecraft/1st_Year_Presentations/blob/main/README-fa.md">Fa(فا)</a>
 </p>
 
-# First Year Presentations
-First AUT Gamecraft presentation resources, held at 2021.
-
-## Hosted talks
+## Hosted talks (held at 2021)
 |Title|Presenter|Slide|Video|Date|
 |--|--|--|--|--|
 |AR and VR technologies|Sadegh Booroomand|[Slide](https://docs.google.com/presentation/d/1nKX-UCDNS0tpTBOfXtdLvK2ZsrlARP9GvyiiPttTSS0/edit#slide=id.gc526c8af1d_2_143)||9th March|
