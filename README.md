@@ -11,4 +11,4 @@ First AUT Gamecraft event resources.
 |دستور پخت برنامه نویس بازی :/|Ali Salehi||||
 |The effect of proper marketing to the most user acquisition|Reza Abbasi||||
 |AR & VR|Sadegh Booroomand||||
-|UIUX in game development|Mohammad Bagher Abedi Saghaa||||
+|UIUX in game development|Mohammad Bagher Abedi||||
