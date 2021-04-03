@@ -45,9 +45,7 @@
         <tr>
             <td>تاثیر مارکتینگ موثر در جذب بیشترین تعداد کاربر</td>
             <td>رضا عباسی</td>
-            <td>
-                 <a href="https://github.com/AUTGamecraft/1st_Year_Presentations/blob/main/Slides/Abbasi-Marketing-Gamecraft.pdf">اسلاید</a>
-            </td>
+            <td></td>
             <td></td>
             <td>۱۹ اسفند</td>
         </tr>
