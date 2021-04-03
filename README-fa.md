@@ -12,17 +12,6 @@
 تاک‌های برگزارشده
 </h2>
 
-|عنوان|ارائه‌دهنده|اسلاید|ویدئو|تاریخ|
-|--|--|--|--|--|
-|تکنولوژی های واقعیت افزوده (AR) و واقعیت مجازی (VR)|صادق برومند|[Slide](https://docs.google.com/presentation/d/1nKX-UCDNS0tpTBOfXtdLvK2ZsrlARP9GvyiiPttTSS0/edit#slide=id.gc526c8af1d_2_143)||۱۷ اسفند|
-|آشنایی با موتورهای بازی‌سازی و ساختار آن‌ها|امیرحسین موسوی|[Slide](https://github.com/AUTGamecraft/1st_Year_Presentations/blob/main/Slides/Moosavi-GameEngines-Gamecraft.pdf)||۱۸ اسفند|
-|تاثیر مارکتینگ موثر در جذب بیشترین تعداد کاربر|رضا عباسی|[Slide](https://github.com/AUTGamecraft/1st_Year_Presentations/blob/main/Slides/Abbasi-Marketing-Gamecraft.pdf)||۱۹ اسفند|
-|از کجا شروع کنیم|سید طه رسولی|[Slide](https://github.com/AUTGamecraft/1st_Year_Presentations/blob/main/Slides/Rasooli-WhereToStart-Gamecraft.pdf)||۲۰ اسفند|
-| یادگیری ماشین در بازی سازی|امین بابادی|[Slide](https://github.com/AUTGamecraft/1st_Year_Presentations/blob/main/Slides/Babadi-ML%20in%20Games-Gamecraft.pdf)||۲۱ اسفند|
-|اهمیت تحلیل داده ها در بازی سازی و معرفی ابزار های آن|امید شیرخورشیدی|[Slide](https://github.com/AUTGamecraft/1st_Year_Presentations/blob/main/Slides/Shirkhorshidi-Data%20Presentation-GameCraft.pdf)||۲۲ اسفند|
-|طراحی رابط و تجربه کاربری در بازی|محمدباقر عابدی‌سقّا |[Slide](https://github.com/AUTGamecraft/1st_Year_Presentations/blob/main/Slides/Abedi-uiux-Gamecraft.pdf)||۲۳ اسفند|
-|دستور پخت برنامه نویس بازی|علی صالحی|[Slide](https://github.com/AUTGamecraft/1st_Year_Presentations/blob/main/Slides/Salehi-%D8%AF%D8%B3%D8%AA%D9%88%D8%B1%20%D9%BE%D8%AE%D8%AA%20%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87%20%D9%86%D9%88%DB%8C%D8%B3%20%D8%A8%D8%A7%D8%B2%DB%8C-Gamecraft.pdf)||۲۴ اسفند|
-
 <div dir="rtl">
 <table class="styled-table" dir="rtl">
     <thead>
@@ -38,18 +27,75 @@
         <tr>
             <td>تکنولوژی های واقعیت افزوده و واقعیت مجازی</td>
             <td>صادق برومند</td>
-            <td>اسلاید</td>
+            <td>
+                <a href="https://docs.google.com/presentation/d/1nKX-UCDNS0tpTBOfXtdLvK2ZsrlARP9GvyiiPttTSS0/edit#slide=id.gc526c8af1d_2_143">اسلاید</a>
+            </td>
             <td></td>
             <td>۱۷ اسفند</td>
         </tr>
         <tr class="active-row">
-            <td>Melissa</td>
-            <td>5150</td>
-            <td>5150</td>
-            <td>5150</td>
-            <td>5150</td>
+            <td>آشنایی با موتورهای بازی‌سازی و ساختار آن‌ها</td>
+            <td>امیرحسین موسوی</td>
+            <td>
+                 <a href="https://github.com/AUTGamecraft/1st_Year_Presentations/blob/main/Slides/Moosavi-GameEngines-Gamecraft.pdf">اسلاید</a>
+            </td>
+            <td></td>
+            <td>۱۸ اسفند</td>
         </tr>
-        <!-- and so on... -->
+        <tr>
+            <td>تاثیر مارکتینگ موثر در جذب بیشترین تعداد کاربر</td>
+            <td>رضا عباسی</td>
+            <td>
+                 <a href="https://github.com/AUTGamecraft/1st_Year_Presentations/blob/main/Slides/Abbasi-Marketing-Gamecraft.pdf">اسلاید</a>
+            </td>
+            <td></td>
+            <td>۱۹ اسفند</td>
+        </tr>
+        <tr class="active-row">
+            <td>از کجا شروع کنیم</td>
+            <td>سید طه رسولی</td>
+            <td>
+                 <a href="https://github.com/AUTGamecraft/1st_Year_Presentations/blob/main/Slides/Rasooli-WhereToStart-Gamecraft.pdf">اسلاید</a>
+            </td>
+            <td></td>
+            <td>۲۰ اسفند</td>
+        </tr>
+        <tr class="active-row">
+            <td>یادگیری ماشین در بازی سازی</td>
+            <td>امین بابادی</td>
+            <td>
+                 <a href="https://github.com/AUTGamecraft/1st_Year_Presentations/blob/main/Slides/Babadi-ML%20in%20Games-Gamecraft.pdf">اسلاید</a>
+            </td>
+            <td></td>
+            <td>۲۱ اسفند</td>
+        </tr>
+        <tr class="active-row">
+            <td>اهمیت تحلیل داده ها در بازی سازی و معرفی ابزار های آن</td>
+            <td>امید شیرخورشیدی </td>
+            <td>
+                 <a href="https://github.com/AUTGamecraft/1st_Year_Presentations/blob/main/Slides/Shirkhorshidi-Data%20Presentation-GameCraft.pdf">اسلاید</a>
+            </td>
+            <td></td>
+            <td>۲۲ اسفند</td>
+        </tr>
+        <tr class="active-row">
+            <td>طراحی رابط و تجربه کاربری در بازی</td>
+            <td>محمدباقر عابدی‌سقّا </td>
+            <td>
+                 <a href="https://github.com/AUTGamecraft/1st_Year_Presentations/blob/main/Slides/Abedi-uiux-Gamecraft.pdf">اسلاید</a>
+            </td>
+            <td></td>
+            <td>۲۳ اسفند</td>
+        </tr>
+        <tr class="active-row">
+            <td>دستور پخت برنامه نویس بازی</td>
+            <td>علی صالحی</td>
+            <td>
+                 <a href="https://github.com/AUTGamecraft/1st_Year_Presentations/blob/main/Slides/Salehi-%D8%AF%D8%B3%D8%AA%D9%88%D8%B1%20%D9%BE%D8%AE%D8%AA%20%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87%20%D9%86%D9%88%DB%8C%D8%B3%20%D8%A8%D8%A7%D8%B2%DB%8C-Gamecraft.pdf">اسلاید</a>
+            </td>
+            <td></td>
+            <td>۲۴ اسفند</td>
+        </tr>
     </tbody>
 </table>
 </div>
