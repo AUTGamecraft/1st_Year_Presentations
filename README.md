@@ -11,4 +11,4 @@ First AUT Gamecraft event resources held 2021.
 |Machine learning in game development|Amin Babadi|||13th March|
 |The importance of data analysis in game development and its related tools|Omid Khorshidi|||14th March|
 |UIUX in game development|Mohammad Bagher Abedi|||15th March|
-|دستور پخت برنامه نویس بازی :/|Ali Salehi|||16th March|
+|دستور پخت برنامه نویس بازی|Ali Salehi|||16th March|
