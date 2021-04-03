@@ -1,6 +1,8 @@
 ![Gamecraft](https://github.com/AUTGamecraft/1st_Year_Presentations/blob/main/Slides/AUTGamecraft.png)
 
+<p dir="rtl">
 # ارائه‌های اولین دوره‌ی گیم‌کرفت
+</p>
 
 <p dir="rtl">
 منابع اولین دوره‌ی رویداد گیم‌کرفت امیرکبیر که در سال ۱۳۹۹ برگزار گشت.
