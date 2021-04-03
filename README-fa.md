@@ -26,17 +26,26 @@
 <table class="styled-table" dir="rtl">
     <thead>
         <tr>
-            <th>Name</th>
-            <th>Points</th>
+            <th>تاریخ</th>
+            <th>ویدئو</th>
+            <th>اسلاید</th>
+            <th>ارائه‌دهنده</th>
+            <th>عنوان</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Dom</td>
-            <td>6000</td>
+            <td>۱۷ اسفند</td>
+            <td></td>
+            <td>اسلاید</td>
+            <td>صادق برومند</td>
+            <td>تکنولوژی های واقعیت افزوده و واقعیت مجازی</td>
         </tr>
         <tr class="active-row">
             <td>Melissa</td>
+            <td>5150</td>
+            <td>5150</td>
+            <td>5150</td>
             <td>5150</td>
         </tr>
         <!-- and so on... -->
